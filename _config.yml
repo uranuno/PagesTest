@@ -1,6 +1,10 @@
 title: "GitHub Pages テスト"
 lang: "ja"
 
+minima:
+  social_links:
+    - { platform: github, user_url: "https://github.com/uranuno" }
+
 remote_theme: jekyll/minima
 
 plugins:

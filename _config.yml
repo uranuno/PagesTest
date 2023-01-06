@@ -1,0 +1,7 @@
+title: "GitHub Pages テスト"
+lang: "ja"
+
+remote_theme: jekyll/minima
+
+plugins:
+ - jekyll-feed

@@ -1,3 +1,3 @@
-# PagesTest2
+# GitHub Pages Test
 
-GitHub Pages 最小構成のテスト用リポジトリです。
+GitHub Pages 最小構成のテスト用です。

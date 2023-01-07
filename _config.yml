@@ -3,7 +3,7 @@ lang: "ja"
 
 minima:
   social_links:
-    - { platform: github, user_url: "https://github.com/uranuno" }
+    - { platform: github, user_url: "https://github.com/uranuno/PagesTest" }
 
 remote_theme: jekyll/minima
 

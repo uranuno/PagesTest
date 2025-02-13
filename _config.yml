@@ -3,7 +3,9 @@ lang: "ja"
 
 minima:
   social_links:
-    - { platform: github, user_url: "https://github.com/uranuno/PagesTest" }
+    - title: This repository at GitHub
+      icon: github
+      url: "https://github.com/uranuno/PagesTest"
 
 remote_theme: jekyll/minima
 

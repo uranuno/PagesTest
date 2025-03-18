@@ -1,4 +1,5 @@
 title: "GitHub Pages テスト"
+description: "Jekyll のデフォルトテーマMinima を使用した、シンプルな構成のGitHub Pages のテストです。"
 lang: "ja"
 
 minima:

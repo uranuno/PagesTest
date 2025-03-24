@@ -78,14 +78,14 @@ GitHub Pages (Jekyll) ではなくマークダウンの話ですが、よく忘�
 `<https://example.com/>` → <https://example.com/>
 
 ### 画像
-![オクトキャット][Octocat]{:standalone width="400" height="400"}
+![オクトキャット][Octocat]{:standalone width="400"}
 
 [Octocat]: {{site.baseurl}}/images/octocat.png
 
 ```markdown
 <!-- 画像の大きさを指定できます -->
 <!-- kramdown ではstandalone と書くことでfigcaption を表示できます -->
-![オクトキャット][Octocat]{:standalone width="400" height="400"}
+![オクトキャット][Octocat]{:standalone width="400"}
 
 [Octocat]: /images/octocat.png
 ```

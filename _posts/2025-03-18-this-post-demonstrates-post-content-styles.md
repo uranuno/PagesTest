@@ -70,18 +70,22 @@ H3 くらいまでは、まあ使うかな？
 リンクを**強調**して、リストにしてみます。
 
 - [**参考URLを並べるときなんかにこういうことをするかも**](/)
-- [**文中のリンク**](/)
-- [**文中のリンク**](/)
+- **あるいはこう** <https://example.com/>
 
 #### リンクしたいURL（Bare URL）は<>で囲む
 GitHub Pages (Jekyll) ではなくマークダウンの話ですが、よく忘れるので書いておきます。
 
 `<https://example.com/>` → <https://example.com/>
 
-### 水平線
-
-* * *
-
 ### 画像
+![オクトキャット][Octocat]{:standalone width="400" height="400"}
 
+[Octocat]: /images/octocat.png
 
+```markdown
+<!-- 画像の大きさを指定できます -->
+<!-- kramdown ではstandalone と書くことでfigcaption を表示できます -->
+![オクトキャット][Octocat]{:standalone width="400" height="400"}
+
+[Octocat]: /images/octocat.png
+```

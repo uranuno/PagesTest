@@ -80,7 +80,7 @@ GitHub Pages (Jekyll) ではなくマークダウンの話ですが、よく忘�
 ### 画像
 ![オクトキャット][Octocat]{:standalone width="400" height="400"}
 
-[Octocat]: /images/octocat.png
+[Octocat]: {{site.baseurl}}/images/octocat.png
 
 ```markdown
 <!-- 画像の大きさを指定できます -->

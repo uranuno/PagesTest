@@ -10,7 +10,7 @@ minima:
       icon: github
       url: "https://github.com/uranuno/PagesTest"
 
-remote_theme: jekyll/minima
+remote_theme: "jekyll/minima@5d21d12"
 
 plugins:
  - jekyll-feed
